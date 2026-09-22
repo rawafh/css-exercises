@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.redb {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#oneid {
+    color: #0096FF;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+
+#twoid {
+    background-color: #88E788;
+    font-size: 24px;
+    font-weight: bold;
+}
